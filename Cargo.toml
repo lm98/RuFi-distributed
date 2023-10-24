@@ -1,5 +1,5 @@
 [package]
-name = "rust-base-repo"
+name = "rufi_distributed"
 version = "0.1.0"
 edition = "2021"
 
